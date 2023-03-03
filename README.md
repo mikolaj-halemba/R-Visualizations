@@ -5,12 +5,11 @@
 
 ## Screenshots
 #### Time-Series
-![Map-1](https://github.com/mikolaj-halemba/R-Shiny-App/blob/main/images/time-series.png)
+![Map-1](https://github.com/mikolaj-halemba/R-Visualizations/blob/main/images/time-series.png)
 #### Clustering
-![Map-2](https://github.com/mikolaj-halemba/R-Shiny-App/blob/main/images/clustering.png)
+![Map-2](https://github.com/mikolaj-halemba/R-Visualizations/blob/main/images/clustering.png)
 
 ## Built With
-
 - R
 
 ## Libraries
